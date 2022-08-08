@@ -1,5 +1,8 @@
 # Jogo-Carta-superTrunfo
-
+<section>
+Bem vindos(as) ao meu repositorio do projetinho de Front-end Tryunfo desenvolvido junto as aulas da Trybe.
+</section>
+<br/>
 <section>
   <summary><strong>👨‍💻 O que deverá ser desenvolvido</strong></summary><br />
 
@@ -15,17 +18,16 @@
 
   ### Protótipo do projeto
 
-  Você pode acessar um protótipo no link abaixo:
+  Você pode observar o protótipo nas imagens abaixo:
 
-  https://www.figma.com/file/psAYBgwjQ1pQqBe3wJvljt/Tryunfo
 </section>
-
-<img src="tryunfo.jpeg">
-
-<img src="tryunfo1.jpeg">
-
+<br/>
+<img src="images/requisito-9.png" width=600px>
+<br/>
+<img src="images/requisito-15.png" width=600px>
+<br/>
 <section>
-  <summary><strong>:memo: Habilidades</strong></summary><br />
+  <summary><strong>:memo: Habilidades testadas com esse projeto:</strong></summary><br />
 
   Neste projeto, verificamos se você é capaz de:
 
