@@ -1,10 +1,10 @@
-# Jogo-Carta-superTrunfo
+# Jogo de cartas - Super Trunfo
 <section>
 Bem vindos(as) ao meu repositorio do projetinho de Front-end Tryunfo desenvolvido junto as aulas da Trybe.
 </section>
 <br/>
 <section>
-  <summary><strong>👨‍💻 O que deverá ser desenvolvido</strong></summary><br />
+  <summary><strong>👨‍💻 O que foi desenvolvido</strong></summary><br />
 
   Neste projeto foi desenvolvido um jogo no estilo Super Trunfo! Ao utilizar essa aplicação uma pessoa usuária deverá ser capaz de:
 
