@@ -6,7 +6,7 @@ Bem vindos(as) ao meu repositorio do projetinho de Front-end Tryunfo desenvolvid
 <section>
   <summary><strong>👨‍💻 O que deverá ser desenvolvido</strong></summary><br />
 
-  Neste projeto você vai desenvolver um jogo no estilo Super Trunfo! Ao utilizar essa aplicação uma pessoa usuária deverá ser capaz de:
+  Neste projeto foi desenvolvido um jogo no estilo Super Trunfo! Ao utilizar essa aplicação uma pessoa usuária deverá ser capaz de:
 
   * Criar um baralho com o tema livre;
 
@@ -29,7 +29,7 @@ Bem vindos(as) ao meu repositorio do projetinho de Front-end Tryunfo desenvolvid
 <section>
   <summary><strong>:memo: Habilidades testadas com esse projeto:</strong></summary><br />
 
-  Neste projeto, verificamos se você é capaz de:
+  Neste projeto, é testado habilidades de:
 
   * Ler o estado de um componente e usá-lo para alterar o que exibimos no browser
 
